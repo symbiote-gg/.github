@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  A free desktop app for browsing your own Heroes of the Storm replays.
+  Desktop app for browsing your own Heroes of the Storm replays.
 </p>
 
 <br />
